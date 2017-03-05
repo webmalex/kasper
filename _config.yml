@@ -1,16 +1,16 @@
+---
 name: orienteer.ru
 description: Спортивное ориентирование в Тюмени
-meta_description: "Клуб спортивного ориентирования 'Ермак'"
-
+meta_description: Клуб спортивного ориентирования 'Ермак'
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 3
-baseurl: /
-domain_name: 'http://new.orienteer.ru'
-google_analytics: 'UA-501594-1'
-gems: [jekyll-paginate, jekyll-admin]
-
-# Details for the RSS feed generator
-url:            'rss'
-author:         'Александр Ефимов'
+paginate: 2
+baseurl: "/"
+domain_name: http://new.orienteer.ru
+google_analytics: UA-501594-1
+gems:
+- jekyll-paginate
+- jekyll-admin
+url: rss
+author: Александр Ефимов
