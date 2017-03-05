@@ -9,7 +9,7 @@ paginate: 3
 baseurl: /
 domain_name: 'http://new.orienteer.ru'
 google_analytics: 'UA-501594-1'
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-admin]
 
 # Details for the RSS feed generator
 url:            'rss'
